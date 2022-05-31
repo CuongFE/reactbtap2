@@ -1,0 +1,19 @@
+
+
+.brand {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20%;
+    height: 300px;
+    background-color: red;
+    margin-bottom: 10px;
+   
+}
+.icon i {
+    color: white;
+    font-size: 60px;
+}
+.number h3, .number p{
+    color: white;
+}
